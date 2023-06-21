@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @usmannoor90
 - 👀 I’m interested in ... React Web Development.
-- 🌱 I have learnt ... React, javascript, jQuery,Mysql,HTML5, CSS3, Bootstrap,and Tailwind .
+- 🌱 I have learnt ... React, javascript,TypeScript, jQuery,Mysql,HTML5, CSS3, Bootstrap,and Tailwind .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Thorugh Email: m.usmannoor90@gmail.com
 
