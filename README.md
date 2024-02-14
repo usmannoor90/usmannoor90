@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @usmannoor90
-- 👀 I’m interested in ... React Web Development.
-- 🌱 I have learned... React, javascript, TypeScript, node.js, express.js, MongoDB, HTML5, CSS3, Bootstrap, and Tailwind.
+- 👀 I’m interested in ... Full-Stack Web Development.
+- 🌱 I have learned... React, Next.Js, javascript, TypeScript, Node.js, express.js, MySql, PostgreSQL, MongoDB, HTML5, CSS3, Bootstrap, and Tailwind.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Thorugh Email: m.usmannoor90@gmail.com
+- Portfolio WebSite https://musmannoor.vercel.app/
 
 <!---
 usmannoor90/usmannoor90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
