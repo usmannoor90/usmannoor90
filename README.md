@@ -28,7 +28,7 @@
   <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" alt="19565397" height="30" width="40" /></a>
 <a href="https://instagram.com/usmanquickcode" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="usmanquickcode" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/usmanquickcode" target="_blank">
+<a href="https://www.youtube.com/usmanquickcode" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" alt="usmanquickcode" height="30" width="40" /></a>
  <a href="m.usmannoor90@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
