@@ -6,16 +6,16 @@
 
 </div>
 <h3 align="center">Full Stack Developer | MERN Stack | Next.js | Docker | Linux | AWS Enthusiast</h3>
-<div align="center">
+<!-- <div align="center">
   <img height="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"  />
-</div>
+</div> -->
 <div align="center">
   
 * 🌱 I’m currently learning **Amazon Web Services**
 
 * 👨‍💻 All of my projects are available at [https://musmannoor.vercel.app/](https://musmannoorv1updated.vercel.app/)
 
-* ⚡ Fun fact **I am a carpenter, do Boxing and sometimes Nature's Photography.**
+* ⚡ Fun fact **I am a carpenter, do Boxing, and sometimes Nature Photography.**
 </div>
 
   
