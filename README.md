@@ -23,15 +23,15 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/muhammadusman1122" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="muhammadusman1122" height="30" width="40" /></a>
+  <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="muhammadusman1122" height="40" width="52" /></a>
 <a href="https://stackoverflow.com/users/19565397" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" alt="19565397" height="30" width="40" /></a>
+  <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" alt="19565397" height="40" width="52" /></a>
 <a href="https://instagram.com/usmanquickcode" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="usmanquickcode" height="30" width="40" /></a>
+  <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="usmanquickcode" height="40" width="52" /></a>
 <a href="https://www.youtube.com/@usmanquickcode" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" alt="usmanquickcode" height="30" width="40" /></a>
+  <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" alt="usmanquickcode" height="40" width="52" /></a>
  <a href="m.usmannoor90@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" width="52" alt="gmail logo"  />
   </a>
 </p>
 <br clear="both">
